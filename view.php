@@ -94,7 +94,7 @@
                </div>
             </div>
             <div class="mb-3 row">
-               <label for="tglPemberian" class="col-sm-2 col-form-label">TANGGAL LAHIR</label>
+               <label for="tglPemberian" class="col-sm-2 col-form-label">TANGGAL PEMBERIAN</label>
                <div class="col-sm-10">
                   <input type="text" class="form-control" id="tglPemberian" name="tglPemberian" disabled value="<?php echo $tglPemberian ?>">
                </div>
